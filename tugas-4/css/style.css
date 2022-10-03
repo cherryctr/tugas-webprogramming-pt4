@@ -1,0 +1,27 @@
+.content {
+    width: 500px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.text-bukutamu {
+    border-bottom: 1px solid black !important;
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    padding-bottom: 15px;
+}
+
+.main-heading {
+    display: inline-block;
+    font-family: "Josefin-Sans", sans-serif;
+    font-size: 70.6px;
+    font-weight: bold;
+    color: #ba9a45;
+    border: solid 1px red
+  }
+  
+  .main-heading h3 {
+    display: block;
+   }
+  
+  
